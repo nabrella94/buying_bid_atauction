@@ -1,1 +1,2 @@
 # buying_bid_atauction
+Analyzed IAA auction for Detroit branch available on the https://www.iaai.com/LiveAuctions store applications using Python 3.7, Jupyter notebooks, Pandas, Scipy, and Matplotlib. investigate the hammer price that various cars fetched on the https://www.iaai.com/LiveAuctions, which runs online and showroom car auctions. Report Classified auto in 4 segments and find the best deal for Economy car with runs and Drive condition and low miles and the least damage for tax season
